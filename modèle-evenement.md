@@ -1,78 +1,51 @@
-# Nom de l'événement
-
+# Cynefin: navigation en eaux complexes
 
 Retour au la page parent : https://annuel2.framapad.org/p/swcraftstras-planning-a9rv
 
-
 ## Logistique
 
-
-Date : 
-
-
-Durée : 
-
-
-Lieu : 
-
-
-Moment de convivialité : 
-
-
-Captation : TODO : fait-on une captation ?
-
+- Date : Vendredi 13 mars 2025
+- Heure : 
+- Durée : 2h
+- Lieu : Plage Digitale, Salle Narval (anciennement espace Flex)
+- Moment de convivialité : TODO : buffet ?
+- Animation : TODO qui fait quoi ?
+- Captation : TODO : fait-on une captation ?
 
 ## Informations
 
+### Titre
+
+- TODO: Titre
 
 ### Intervenant(s)
 
-TODO
-
-
-### Titre
-
-TODO
-
-
-### Audience
-
-
-TODO : Qui est susceptible de bénéficier de l'événement ?
-
+- TODO
+- Liens : 
+- Photo : TODO : Souhaites-tu qu'on mette une photo sur la bannière de l'événement ? Si oui laquelle ?
 
 ### Description de l'événement
 
+TODO
+
+### Bio
 
 TODO
 
-
-### Bio / entreprise / association
-
-
-TODO: Informations sur le(s) intervenant(s) organisation invité-es
-
-
 ### Programme / déroulé
 
+TODO : Déroulé : à quelle heure ? combien de temps ?
 
-TODO : Déroulé : à quelle heure ?  combien de temps ?
+- Accueil
+- A
+- B
+- C
 
+### Audiences
 
-1. Accueil
+Sont susceptibles de bénéficier de l'événement :
 
-2. A
+- TODO
 
-3. B
-
-4. C
-
-
-## Animation
-
-
-TODO : Qui fait quoi ?
-
-
-
-
+Niveau technique recommandé ?
+- Oui / Non
