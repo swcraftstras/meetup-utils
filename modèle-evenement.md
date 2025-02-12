@@ -4,10 +4,10 @@ Retour au la page parent : https://annuel2.framapad.org/p/swcraftstras-planning-
 
 ## Logistique
 
-- Date : Vendredi 13 mars 2025
-- Heure : 
-- Durée : 2h
-- Lieu : Plage Digitale, Salle Narval (anciennement espace Flex)
+- Date : TODO
+- Heure : TODO
+- Durée : TODO
+- Lieu : TODO
 - Moment de convivialité : TODO : buffet ?
 - Animation : TODO qui fait quoi ?
 - Captation : TODO : fait-on une captation ?
