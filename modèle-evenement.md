@@ -16,6 +16,10 @@ Captation : TODO : fait-on une captation ?
 
 ### Titre
 
+### Audience
+
+TODO : Qui est susceptible de bénéficier de l'événement ?
+
 ### Description de l'événement
 
 ### Bio / entreprise / association
